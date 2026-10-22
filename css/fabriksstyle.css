@@ -1,5 +1,5 @@
 body{
-    background-image:url("/img/workers.png");
+    background-image:url("../img/workers.png");
     background-color: black;
     background-size: cover;
 }
