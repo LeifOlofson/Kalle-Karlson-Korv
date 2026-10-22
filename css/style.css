@@ -1,0 +1,28 @@
+ h1{
+    color: chartreuse;
+    font-family: "Impact";
+    }   
+.menu{
+    color: rgb(153, 105, 201);
+    font-family: "Papyrus";
+    }
+.pris{
+    color: coral;
+    font-family: "Comic Sans MS";
+    }
+.knapp{
+    cursor: alias;
+    background-color: brown;
+    color: pink;
+    font-family: 'Courier New';
+    }
+.knapp2{
+    cursor: crosshair;
+    font-family: "Arial Narrow";
+    }
+body{
+    background-image: url(/img/background.png);
+    background-size: contain;
+    background-color: black;
+    }
+      

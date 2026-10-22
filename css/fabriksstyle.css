@@ -1,0 +1,9 @@
+body{
+    background-image:url(/img/workers.png);
+    background-color: black;
+    background-size: cover;
+}
+h1{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
